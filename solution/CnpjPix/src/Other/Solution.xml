@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportExportXml version="9.2.26112.144" SolutionPackageVersion="9.2" languagecode="1046" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26112.144" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26112.00144">
+  <SolutionManifest>
+    <UniqueName>CnpjPix</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="CNPJ ao PIX" languagecode="1046" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.0</Version>
+    <Managed>2</Managed>
+    <Publisher>
+      <UniqueName>francisconeto</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="Francisco Neto" languagecode="1046" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>fan</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>79363</CustomizationOptionValuePrefix>
+      <Addresses />
+    </Publisher>
+    <RootComponents />
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>
