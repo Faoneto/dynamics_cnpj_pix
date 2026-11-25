@@ -20,7 +20,11 @@
       <CustomizationOptionValuePrefix>79363</CustomizationOptionValuePrefix>
       <Addresses />
     </Publisher>
-    <RootComponents />
+    <RootComponents>
+      <RootComponent type="1" schemaName="account" behavior="1" />
+      <RootComponent type="1" schemaName="fan_cobrancapix" behavior="0" />
+      <RootComponent type="1" schemaName="fan_venda" behavior="0" />
+    </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
 </ImportExportXml>
